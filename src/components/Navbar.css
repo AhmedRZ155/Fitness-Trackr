@@ -1,0 +1,31 @@
+/* nav.css */
+
+#nav {
+  background-color: #b1b1b1;
+  padding: 20px;
+}
+
+#nav-links {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+#nav-links > div {
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#logout-link {
+  color: #000000;
+}
+
+#logout-link:hover {
+  text-decoration: underline;
+}

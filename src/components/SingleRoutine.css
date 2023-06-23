@@ -1,0 +1,43 @@
+/* singleroutine.css */
+
+#single-routine {
+  margin-top: 20px;
+}
+
+#single-routine-header {
+  margin-bottom: 10px;
+}
+
+#single-routine-name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#single-routine-creator {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+#single-routine-description {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+#activity-details-label {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.single-routine-activity {
+  margin-bottom: 10px;
+}
+
+.single-routine-activity p {
+  margin: 0;
+}
+
+#single-routine-activity-list {
+  margin-top: 10px;
+}

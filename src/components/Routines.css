@@ -1,0 +1,44 @@
+/* routines.css */
+
+#routines-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#routines-header p {
+  margin: 0;
+}
+
+#routine-search {
+  margin-top: 10px;
+}
+
+#filter-routines-search {
+  padding: 5px;
+  width: 300px;
+}
+
+#filter-routines-button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#open-close-create-routine {
+  padding: 5px 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#open-close-create-routine:hover {
+  background-color: #d32f2f;
+}

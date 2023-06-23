@@ -1,0 +1,47 @@
+/* activity.css */
+
+#activities-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#activities-header p {
+  margin: 0;
+}
+
+#activity-search {
+  margin-top: 10px;
+}
+
+#filter-activities-search {
+  padding: 5px;
+  max-width: 100%;
+}
+
+#filter-activities-button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  max-width: 100px;
+}
+
+#open-close-create-activity {
+  padding: 5px 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  max-width: 100px;
+  margin-right: 10px;
+}
+
+#open-close-create-activity:hover {
+  background-color: #d32f2f;
+}
